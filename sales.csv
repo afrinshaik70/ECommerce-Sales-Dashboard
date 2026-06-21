@@ -1,0 +1,16 @@
+Order_ID,Order_Date,Product_Name,Category,State,Sales,Profit
+1001,2025-01-05,Laptop,Technology,California,50000,10000
+1002,2025-01-10,Mouse,Technology,Texas,1000,200
+1003,2025-01-12,Keyboard,Technology,Florida,2000,500
+1004,2025-01-15,Chair,Furniture,California,3000,600
+1005,2025-01-18,Table,Furniture,Texas,5000,1200
+1006,2025-02-01,Phone,Technology,New York,40000,8000
+1007,2025-02-05,Monitor,Technology,California,15000,3000
+1008,2025-02-10,Sofa,Furniture,Florida,25000,5000
+1009,2025-02-15,Printer,Office Supplies,Texas,8000,1500
+1010,2025-02-20,Notebook,Office Supplies,California,500,100
+1011,2025-03-01,Desk,Furniture,New York,10000,2000
+1012,2025-03-05,Tablet,Technology,Texas,20000,4000
+1013,2025-03-10,Headphones,Technology,Florida,3000,600
+1014,2025-03-15,Bookshelf,Furniture,California,7000,1400
+1015,2025-03-20,Scanner,Office Supplies,New York,6000,1200
